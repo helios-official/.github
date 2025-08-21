@@ -1,3 +1,3 @@
 <div align="center">
-  <h1>HeliOS</h1>
+  <h3>🚀 Powering Your Universe</h3>
 </div>
