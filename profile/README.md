@@ -1,3 +1,3 @@
 <div align="center">
-  <h3>🚀 Powering Your Universe</h3>
+  <h2>🚀 Powering Your Universe</h2>
 </div>
