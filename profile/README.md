@@ -1,3 +1,3 @@
 <div align="center">
-  # HeliOS
+  <h1>HeliOS</h1>
 </div>
