@@ -4,4 +4,4 @@
 HeliOS is a modern Linux-based operating system based on Debian Trixie. Developed with the vision of being modular, open-source, and free, HeliOS aims to run on desktop computers and laptops.
 
 ---
-Copyright &copy 2025 Andras Baki.
+Copyright (C) 2025 Andras Baki.
